@@ -21,15 +21,14 @@ python Bloody Spammer V2.py
 
 👤 **NoNoobz**
 
-* GitHub: [@NoobToolzz](https://github.com/NoobToolzz)
+* GitHub: [@fakernoob](https://github.com/fakernoob)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/NoobToolzz/Bloody-Spammer/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/fakernoob/Bloody-Spammer/issues). 
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+

@@ -23,9 +23,6 @@ python Bloody Spammer V2.py
 
 * GitHub: [@fakernoob](https://github.com/fakernoob)
 
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/fakernoob/Bloody-Spammer/issues). 
 
 ## Show your support
 

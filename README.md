@@ -21,7 +21,7 @@ python Bloody Spammer V2.py
 
 👤 **NotFaker**
 
-* GitHub: [@fakernoob](https://github.com/fakernoob)
+* GitHub: [@FakerToolzz](https://github.com/FakerToolzz)
 
 
 ## Show your support

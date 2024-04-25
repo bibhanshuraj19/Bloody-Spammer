@@ -19,7 +19,7 @@ python Bloody Spammer V2.py
 
 ## Author
 
-👤 **NotFaker**
+👤 **Faker**
 
 * GitHub: [@FakerToolzz](https://github.com/FakerToolzz)
 

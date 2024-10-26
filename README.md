@@ -19,9 +19,9 @@ python Bloody Spammer V2.py
 
 ## Author
 
-👤 **Faker**
+👤 **RAJ**
 
-* GitHub: [@FakerToolzz](https://github.com/FakerToolzz)
+* GitHub: [@bibhanshuraj19](https://github.com/bibhanshuraj19)
 
 
 ## Show your support
